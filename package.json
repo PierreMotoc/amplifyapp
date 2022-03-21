@@ -3,7 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@aws-amplify/analytics": "^5.2.1",
+    "@aws-amplify/interactions": "^4.0.34",
+    "@aws-amplify/storage": "^4.4.17",
+    "@aws-amplify/ui": "^3.3.1",
     "@aws-amplify/ui-react": "^1.2.5",
+    "@aws-amplify/xr": "^3.0.34",
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
